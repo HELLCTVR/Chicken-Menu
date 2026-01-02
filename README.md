@@ -1,2 +1,6 @@
-# Chicken-Menu
-This Is A Gorilla Tag Mod Menu, I Am NOT Responsible Of You Getting Banned!
+# Chicken Menu, How To Use?
+__For VR__
+Press The "Y" Button On Your Left Controller To Open The Menu. There Is A Setting That Let's You Put It On The Right Hand, But It May Be Broken...
+
+__For PC__
+Press The "Q" Key On Your Keyboard To Enable The Mod Menu. The Hand Setting Doesn't Do Anything...
